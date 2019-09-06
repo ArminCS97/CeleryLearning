@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "e302ce29d074f62963d03e4e6da9168e8d8dcc2aade141db2b9263f72d5139e0"
+            "sha256": "04c7e5cef324dcdf04568ae8fe73e09c3da7dfba78a9b7ff1a5dcd8cd2d74361"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -64,6 +64,20 @@
             ],
             "version": "==3.0.4"
         },
+        "click": {
+            "hashes": [
+                "sha256:2335065e6395b9e67ca716de5f7526736bfa6ceead690adf616d925bdc622b13",
+                "sha256:5b94b49521f6456670fdb30cd82a4eca9412788a93fa6dd6df72c94d5a8ff2d7"
+            ],
+            "version": "==7.0"
+        },
+        "crontab": {
+            "hashes": [
+                "sha256:c8b4dd666e86c14ba2edf58cdd69066f4e424ff51b9af1188f43e421f5b1ecb8"
+            ],
+            "index": "pypi",
+            "version": "==0.22.6"
+        },
         "django": {
             "hashes": [
                 "sha256:16a5d54411599780ac9dfe3b9b38f90f785c51259a584e0b24b6f14a7f69aae8",
@@ -71,6 +85,12 @@
             ],
             "index": "pypi",
             "version": "==2.2.4"
+        },
+        "django-class": {
+            "hashes": [
+                "sha256:b3d61378bd9443a568283111932d5119fc21287cdaca9cd3086ed28a8b2c22bf"
+            ],
+            "version": "==2019.4.13"
         },
         "djangorestframework": {
             "hashes": [
@@ -93,6 +113,12 @@
                 "sha256:e064a00c66b4d1058cd2b0523fb8d98c82c18450244177b6c0f7913016642650"
             ],
             "version": "==3.0.37"
+        },
+        "public": {
+            "hashes": [
+                "sha256:e1436a8a99693a9849dfe40b9158f3837b7c309c163b2d3f5b8e9fce23876db1"
+            ],
+            "version": "==2019.4.13"
         },
         "pytz": {
             "hashes": [
@@ -122,6 +148,13 @@
                 "sha256:7c3dca29c022744e95b547e867cee89f4fce4373f3549ccd8797d8eb52cdb873"
             ],
             "version": "==0.3.0"
+        },
+        "task": {
+            "hashes": [
+                "sha256:a925501321ba6123b2e23206293e14e1f5661cc5ff0afbe45e0ae992a43f7a0b"
+            ],
+            "index": "pypi",
+            "version": "==2019.6.11"
         },
         "urllib3": {
             "hashes": [

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fec76c1-865c-4f82-8155-c7641b4c1a94" name="Default Changelist" comment="" />
+    <list default="true" id="5fec76c1-865c-4f82-8155-c7641b4c1a94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/projectWithCelery/feedbacks/serialzers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectWithCelery/feedbacks/tasks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectWithCelery/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/projectWithCelery/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectWithCelery/feedbacks/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/projectWithCelery/feedbacks/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectWithCelery/feedbacks/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/projectWithCelery/feedbacks/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectWithCelery/feedbacks/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/projectWithCelery/feedbacks/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +29,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1QHDfhh59bvfHYT4MrdGtovE2XK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/projectWithCelery/projectWithCelery" />
@@ -76,10 +91,26 @@
       <updated>1567418732602</updated>
       <workItem from="1567418735764" duration="659000" />
       <workItem from="1567419549630" duration="4062000" />
+      <workItem from="1567430626822" duration="67000" />
+      <workItem from="1567762760522" duration="2228000" />
+      <workItem from="1567766166106" duration="3975000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
